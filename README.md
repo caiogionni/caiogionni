@@ -44,7 +44,6 @@ Meu objetivo é conquistar uma oportunidade de estágio em Tecnologia da Informa
 
 Alguns projetos desenvolvidos durante minha formação:
 
-- **ServiceHub:** projeto de desenvolvimento web voltado à organização e apresentação de serviços.
 - **Estação Meteorológica:** projeto acadêmico relacionado à coleta e apresentação de dados meteorológicos.
 - **Projetos em C, C++ e Java:** exercícios e aplicações envolvendo lógica de programação, estruturas de dados e resolução de problemas.
 
